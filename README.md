@@ -8,4 +8,4 @@ A simple self initiated project to work on something _new_ and learn something _
 
 # Figma Design link
 
-* [Figma Design Link] (https://www.figma.com/design/JvydTm2aaVe716uYWUSxnL/music-and-muse?node-id=0-1&t=FvYV5Ap4vRVXCTvA-1)
+* [Figma Design Link](https://www.figma.com/design/JvydTm2aaVe716uYWUSxnL/music-and-muse?node-id=0-1&t=FvYV5Ap4vRVXCTvA-1)
